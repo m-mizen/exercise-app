@@ -17,6 +17,9 @@
           "appId": "d1wgqaqa0g1lg",
           "type": "cicd"
         }
+      },
+      "auth": {
+        "exersizeapp7fb7ecaf": {}
       }
     }
   }
