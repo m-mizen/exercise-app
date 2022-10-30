@@ -10,6 +10,14 @@
       "StackName": "amplify-exersizeapp-dev-122842",
       "StackId": "arn:aws:cloudformation:eu-west-2:054060270009:stack/amplify-exersizeapp-dev-122842/642b0df0-584e-11ed-b3f5-022c652aee44",
       "AmplifyAppId": "d1wgqaqa0g1lg"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1wgqaqa0g1lg",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
