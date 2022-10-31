@@ -20,6 +20,9 @@
       },
       "auth": {
         "exersizeapp7fb7ecaf": {}
+      },
+      "storage": {
+        "s3exersizeappstorage7f66c86b": {}
       }
     }
   }
